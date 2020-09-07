@@ -1,0 +1,11 @@
+# Packages:-
+
+packages required for these ML project in our system are:
+
+i) numpy.
+ii) matplotlib.pyplot.
+iii) pandas.
+iv) scipy.
+v) tensorflow.
+vi) math.
+vii) scikit-learn
